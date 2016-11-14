@@ -8,3 +8,10 @@
 ### 再来一个有序列表
 1. 1 hello world
 2. 2 新建一个仓库玩玩
+
+### 引用
+>引用例子
+
+### 连接和插图
+* [百度]（www.baidu.com）
+* ![Mou icon](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png)
