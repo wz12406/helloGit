@@ -2,6 +2,7 @@
 
 - feature-A - feature-A
 - fix-B - fix-B
+- c分支正确的文字
 
 ## 概述
 学习使用git的一个测试项目哦！以前都是零碎的学习了点git的使用，现在开始好好系统的学习一下git了
